@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeddingApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="couple_name">Diego y Luz</string>
+    <string name="time">time</string>
+</resources>
